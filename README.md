@@ -284,7 +284,6 @@ hardware(硬件漏洞)<br/>
 htoa<br/>
 api(接口漏洞集合)<br/>
 sunlogin<br/>
-cas<br/>
 zabbix<br/>
 spring(此为spring类型漏洞集合)<br/>
 oa(一米OA,致翔OA不出名oa集合)<br/>
