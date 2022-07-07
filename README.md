@@ -73,8 +73,7 @@ https://wwi.lanzouq.com/b09yufllg 密码:fyc4</li></ul>
     <li>2022-03-25 新增模块cms(存放常见的cms),原来的改为hwcms,增加OA模块(小众oa产品合集)更新 一米oa任意文件读取漏洞(oa),cmsEasy sql注入漏洞(cms) ,致翔OA sql注入(oa)</li>
   <li>2022-03-03 zabbix 认证绕过CVE-2022-23131(zabbix), spring Cloud Gateway Rce CVE-2022-22947(spring)</li>
    <li>2022-03-01 某上网行为管理系统RCE导致getshell(dkey),PowerMTA 邮件系统任意文件读取漏洞(zujian)</li>
-  <li>2022-02-22 Apereo CAS 反序列化漏洞(cas) 有的结果可能存在误报如果出现误报请反馈!!!。没有加入无回显探测如果实战中又遇到无回显欢迎反馈</li>
-  <li>2022-02-16 向日葵远程命令执行(sunlogin)</li>
+   <li>2022-02-16 向日葵远程命令执行(sunlogin)</li>
    <li>2022-02-05 更新框架集成自定义dll工具版本5.0。自定义phpstudy 自定义EXP演示.见底部演示截图。新手使用请看软件使用帮助和演示视频</li>
   <li>2022-01-18 更新MeterSphere RCE(api)</li>
  <li>2022-01-13 更新Canal Admin信息泄露弱口令(gateway),华天动力一键getshell-mysql(htoa),PatrolFlow  一键getshell(gateway),spon 网络对讲机一键getshell,rce(hardware)</li>
